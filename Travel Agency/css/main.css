@@ -1,0 +1,121 @@
+nav {
+    border-bottom: 2px solid #ff8a65;
+}
+
+nav li a {
+    font-weight: 600;
+    font-style: italic;
+    font-family: Roboto;
+    font-size: 1.1rem;
+}
+
+.brand-logo {
+    font-family: Roboto;
+}
+
+nav li a:hover {
+    background-color: #fff !important;
+    color: #ff8a65 !important;
+}
+
+
+/*Slider*/
+
+.slider .btn {
+    margin-top: 2% !important;
+}
+
+
+/*Searchbar*/
+
+.section-search h5 {
+    font-family: Roboto !important;
+}
+
+.section-search input {
+    padding: 5px 3% !important;
+    border: 2px solid white !important;
+    width: 100% !important;
+    border-radius: 5px !important;
+    margin-top: 2% !important;
+    color: grey !important;
+}
+
+.section-search input::placeholder {
+    color: grey !important;
+}
+
+.section-search .autocomplete {
+    font-size: 1.3rem !important;
+    font-family: Roboto !important;
+    font-style: italic !important;
+}
+
+
+/*Important*/
+
+.autocomplete-content {
+    width: 100% !important;
+    position: absolute !important;
+    text-align: center !important;
+}
+
+
+/*Icon-cards*/
+
+.section-icons {
+    font-size: 1.2rem !important;
+    font-family: Roboto !important;
+    font-style: italic !important;
+    font-weight: 400 !important;
+}
+
+.section-icons .card-panel {
+    border-radius: 5px !important;
+}
+
+
+/*Best Places */
+
+.section-best .row {
+    padding-top: 3% !important;
+    padding-bottom: 3% !important;
+    border-radius: 5px !important;
+}
+
+.section-best h5 {
+    margin-bottom: 2% !important;
+}
+
+.section-best .heading {
+    font-family: Roboto !important;
+    font-weight: bold !important;
+    font-style: oblique !important;
+    font-size: 1.2rem !important;
+}
+
+.section-best .card-title {
+    font-weight: 500 !important;
+    font-family: Roboto !important;
+    font-style: italic !important;
+}
+
+
+/*Follow Section*/
+
+.section-follow h5 {
+    margin-bottom: 2% !important;
+}
+
+.section-follow a {
+    padding: 0 1% !important;
+    font-family: R0boto !important;
+    font-weight: bold !important;
+}
+
+
+/*Gallery Section*/
+
+.section-gallery h5 {
+    padding-bottom: 2% !important;
+}
